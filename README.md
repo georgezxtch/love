@@ -1,2 +1,1 @@
-# love
-https://github.com/georgezxtch/love/tree/master/lovesnowtotao/index.html
+# https://georgezxtch.github.io/love/lovesnowtotao/index.html
